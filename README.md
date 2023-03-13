@@ -1,5 +1,32 @@
-# JavaExercises
+<h1 align="center"> Java Exercices </h1>
 
-Focused on some activities done in college and upadas here for personal use and consultation
+<p align="center">
+Exercises in java
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<br>
+
+<p align="center">
+  <img alt="" src="https://cdn.discordapp.com/attachments/991791829643186236/1035401457333194783/unknown.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Java
+
+
+## 💻 Projeto
+
+O Projeto faz parte de um processo seletivo da empresa Wecode
+
+
 
 <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/799415644646408222/1020051740927733790/giphy.gif">
