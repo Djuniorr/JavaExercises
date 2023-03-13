@@ -13,7 +13,7 @@ Exercises in java
 <br>
 
 <p align="center">
-  <img alt="" src="https://cdn.discordapp.com/attachments/991791829643186236/1035401457333194783/unknown.png" width="100%">
+  <img alt="" src="https://cdn.discordapp.com/attachments/1079915081002926151/1084968539523383296/image.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
